@@ -223,3 +223,7 @@ p, span, address, q {
     font-size: 16px;
 }
 ```
+
+## Dicas
+- [Especificidade](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Specificity)
+- [Como perder peso no browser](https://browserdiet.com/pt/)
