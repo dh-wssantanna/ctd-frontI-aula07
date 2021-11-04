@@ -227,3 +227,4 @@ p, span, address, q {
 ## Dicas
 - [Especificidade](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Specificity)
 - [Como perder peso no browser](https://browserdiet.com/pt/)
+- [Padrões de projeto CSS](http://getbem.com/introduction/)
